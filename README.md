@@ -1,2 +1,6 @@
 # git-test
-print("hello world")
+hungry==yes
+if are you hundry
+  print("eat samosa")
+if you dont hungry
+  print("do work")
